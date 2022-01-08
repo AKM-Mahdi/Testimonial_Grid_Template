@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;500;700&display=swap');
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: hsl(210, 46%, 95%);
+    margin:  0 auto;
+}
+.info{
+    margin-top: 30px;
+}
+
+h2,h4,p{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 50px;
+    border-radius: 100px;
+    border: 2px solid white;
+}
+h2{
+    font-size: 18px !important;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+h4{
+    font-size: 17px;
+    font-weight: bold;
+}
+p{
+    font-size: 14px;
+    font-weight: 100;
+}
+.info{
+    width: 1200px;
+}
+.thumb{
+    display: flex;
+    align-items: center;
+}
+.bio{
+    padding-left: 10px;
+}
+.post{
+    padding: 20px;
+}
+
+.one{
+    background-color: hsl(263, 55%, 52%);
+    color: white;
+}
+.two{
+    background-color: hsl(217, 19%, 35%);
+    color: white;
+}
+.three{
+    background-color: hsl(219, 29%, 14%);
+    color: white;
+}
+.four{
+    background-color: hsl(0, 8%, 77%);
+    padding: 0px;
+    margin: 0px;
+}
+.five{
+    background-color:hsl(263, 55%, 52%) ;
+    color: white;
+}
